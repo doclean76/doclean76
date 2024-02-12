@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1,TRANSTV HD#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HDhttp://103.113.116.150:25461/mtm1/12345/5
+http://103.113.116.150:25461/mtm1/12345/5
 #EXTINF:-1,TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 #EXTINF:-1,TRANS7 HD
